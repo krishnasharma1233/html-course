@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: aqua;
+    background-image: url(about-img.jpg);
+    background-repeat: no-repeat;
+    background-position-x: center;
+
+}
+
+.container{
+background-color: #f7ff00;
+}
+
+/*some background  image  property*/
+
